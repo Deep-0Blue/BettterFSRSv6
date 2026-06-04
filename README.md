@@ -1,6 +1,6 @@
 # BettterFSRSv6
 
-Modular toolkit to **parse Anki SQLite revlogs**, run a **baseline FSRS-6 benchmark** (log-loss + binned RMSE), and **fit a personalized BetterFSRS6** on your review history.
+Hey guys this is a modular toolkit to **parse Anki SQLite revlogs**, run a **baseline FSRS-6 benchmark** (log-loss + binned RMSE), and **fit a personalized BetterFSRS6** on your review history.
 
 ## Install
 
